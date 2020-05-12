@@ -1,0 +1,7 @@
+*.pyc
+*.json
+*.txt
+.vscode/*
+db/*
+pki/*
+!requirements.txt
